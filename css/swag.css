@@ -1,3 +1,25 @@
 .backgroundImage{
 	background-image: url(../assets/Light-Wood-Background.jpg);
 }
+#navBarDiv{
+	margin-top: 60px;
+	width: 100%;
+	vertical-align: middle;
+}
+#navBarList li{
+	display: inline;
+	list-style-type: none;
+	color: white;
+	font-size: 18pt;
+	text-align: center;
+	padding: 0 20px;
+	font-family: 'Homemade Apple', cursive;
+}
+a{
+	text-decoration: none;
+	color:white;
+}
+a:hover{
+	color:#A1FF65;
+	text-decoration: none;
+};
