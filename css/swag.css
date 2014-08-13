@@ -22,4 +22,9 @@ a{
 a:hover{
 	color:#A1FF65;
 	text-decoration: none;
-};
+}
+.history{
+	font-size: 1.2em;
+	color: black;
+	font-weight: 1.2em;
+}
