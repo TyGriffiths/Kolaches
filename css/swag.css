@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
 	background-color: #FFFCCA;
 	color: white;
@@ -41,4 +42,53 @@ body{
 }
 .pushDown{
 		margin-top: 100px;
+=======
+.backgroundImage{
+	background-image: url(../assets/Light-Wood-Background.jpg);
+}
+#maincontainer{
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	height: 1000px;
+}
+
+#video{
+	margin-left: auto;
+	margin-right: auto;
+	width: 560px;
+	height: 316px;
+}
+
+#navBarDiv{
+	margin-top: 60px;
+	width: 100%;
+	vertical-align: middle;
+	margin-left: 5%;
+
+}
+#navBarList li{
+	display: inline;
+	list-style-type: none;
+	color: white;
+	font-size: 18pt;
+	vertical-align: center;
+	padding: 0 20px;
+	font-family: 'Homemade Apple', cursive;
+	width: 20%;
+
+}
+a{
+	text-decoration: none;
+	color:white;
+}
+a:hover{
+	color:#A1FF65;
+	text-decoration: none;
+}
+.history{
+	font-size: 1.2em;
+	color: black;
+	font-weight: 1.2em;
+>>>>>>> FETCH_HEAD
 }
