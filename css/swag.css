@@ -1,3 +1,44 @@
-.backgroundImage{
-	background-image: url(../assets/Light-Wood-Background.jpg);
+body{
+	background-color: #FFFCCA;
+	color: white;
+}
+.centerContent{
+	background-color: blue;
+	margin: -10px auto 0;
+	width: 80%;
+	border: solid white 1px;
+	text-align: center;
+}
+.mainContent{
+	width: 100%;
+	height: 2000px;
+}
+.hopper{
+	z-index: 4;
+	background-color: white;
+	padding-top: 0px;
+	margin-left: 17%;
+}
+.bakersDozen h3{
+	color:white;
+}
+.top{
+		border-bottom:solid white 1px;
+}
+.hopper li{
+	float: left;
+	list-style: none;
+	color: #F5F5F5;
+	padding-bottom: 14px;
+	padding-top: 0;
+	padding-left: 10%;
+	padding-right: 0;
+	font-weight: 500;
+	font-size: 20px;
+}
+.bakersDozen{
+	position: relative;
+}
+.pushDown{
+		margin-top: 100px;
 }
