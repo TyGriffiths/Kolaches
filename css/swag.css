@@ -7,7 +7,10 @@
 	width: 80%;
 	height: 1000px;
 }
-
+#myNavBar{
+	
+	background-color: none;
+}
 #video{
 	margin-left: auto;
 	margin-right: auto;
@@ -15,24 +18,7 @@
 	height: 316px;
 }
 
-#navBarDiv{
-	margin-top: 60px;
-	width: 100%;
-	vertical-align: middle;
-	margin-left: 5%;
 
-}
-#navBarList li{
-	display: inline;
-	list-style-type: none;
-	color: white;
-	font-size: 18pt;
-	vertical-align: center;
-	padding: 0 20px;
-	font-family: 'Homemade Apple', cursive;
-	width: 20%;
-
-}
 a{
 	text-decoration: none;
 	color:white;
