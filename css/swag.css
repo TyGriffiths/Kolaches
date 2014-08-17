@@ -14,29 +14,32 @@ body{
 }
 #myNavBar{
 	padding-left: 7%;
-	opacity: 0.8;
-    filter: alpha(opacity=40);
 	background-color: #AF7700;
 	border: solid black 1px;
+}
+#huntersNavBar{
+	width: 85%;
+	margin: 0 auto 3em;
+}
+img{
+	height: 5em;
+	width: 5em;
 }
 #wrapper{
 	margin: 0 auto;
 	background-color: #A47E46;
 	width: 60%;
-	opacity: 0.8;
-    filter: alpha(opacity=40);
     border: inset #8C5B32 2px;
 }
 #topLogo{
-	margin: 0 auto 1%;
+	margin: 0 auto 1em;
 	background: url('../assets/logo-old.jpg') no-repeat;
 	background-size: 100%;
-	height: 8em;
-	width: 7em;
+	height: 5em;
+	width: 5em;
 }
 .Popular{
 	margin-top: 3em;
-	background-color: transparent;
 }
 #video{
 	margin-left: auto;
