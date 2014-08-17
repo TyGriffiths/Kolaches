@@ -13,8 +13,11 @@ body{
 	height: 1000px;
 }
 #myNavBar{
-	
-	background-color: none;
+	padding-left: 7%;
+	opacity: 0.8;
+    filter: alpha(opacity=40);
+	background-color: #FFBD77;
+	border: solid black 1px;
 }
 #video{
 	margin-left: auto;
