@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+
+body{
+	background-size: 100%;
+}
+>>>>>>> origin/master
 /*body{
 	background-color: #FFFCCA;
 	color: white;
@@ -58,10 +65,46 @@
 	height: 1000px;
 }
 #myNavBar{
+<<<<<<< HEAD
 	color:white;
 	background-color: none;
 	font-family: 'homemade apple';
 	font-size: 16pt;
+=======
+	padding-left: 7%;
+	background-color: #AF7700;
+	border: solid black 1px;
+	opacity: .8;
+}
+#huntersNavBar{
+	width: 85%;
+	margin: 0 auto 3em;
+}
+img{
+	height: 5em;
+	width: 5em;
+}
+#wrapper{
+	margin: 0 auto;
+	background-color: #A47E46;
+	width: 60%;
+    border: inset #8C5B32 2px;
+    color: #FFF;
+}
+#topLogo{
+	margin: 0 auto 1em;
+	background: url('../assets/logo-old.jpg') no-repeat;
+	background-size: 100%;
+	height: 5em;
+	width: 5em;
+}
+.Popular{
+	margin-top: 2em;
+	color: #F3B814;
+}
+.Popular input{
+	color: black;
+>>>>>>> origin/master
 }
 #video{
 	margin-left: auto;
@@ -69,10 +112,13 @@
 	width: 560px;
 	height: 316px;
 }
+<<<<<<< HEAD
 ul.nav a:hover {
 	background-color: none !important;
 	color: none; 
 }
+=======
+>>>>>>> origin/master
 a{
 	text-decoration: none;
 	color:white;
@@ -82,8 +128,17 @@ a:hover{
 	text-decoration: none;
 	background-color: none;
 }
+.orderForm{
+	opacity: 1;
+	padding-top: 2em;
+	color: #9E0A16;
+}
 .history{
 	font-size: 1.2em;
 	color: black;
 	font-weight: 1.2em;
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/master
 }
