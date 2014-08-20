@@ -59,6 +59,7 @@ body{
 	padding-left: 7%;
 	background-color: #AF7700;
 	border: solid black 1px;
+	opacity: .8;
 }
 #huntersNavBar{
 	width: 85%;
@@ -83,7 +84,11 @@ img{
 	width: 5em;
 }
 .Popular{
-	margin-top: 3em;
+	margin-top: 2em;
+	color: #F3B814;
+}
+.Popular input{
+	color: black;
 }
 #video{
 	margin-left: auto;
