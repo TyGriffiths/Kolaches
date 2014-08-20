@@ -43,7 +43,7 @@ body{
 	font-weight: 500;
 	font-size: 20px;
 }
-.bakersDozen{
+.bakersDozen{ /*.bakersDozen is already written on line 29, how about combining them?*/
 	position: relative;
 }
 .pushDown{
@@ -57,6 +57,7 @@ body{
 	font-family: 'homemade apple';
 	font-size: 36pt;
 	padding-left: 40px;
+	margin-top: 15px;
 }
 #maincontainer{
 	margin-left: auto;
@@ -138,4 +139,31 @@ a:hover{
 	color: black;
 	font-weight: 1.2em;
 
+}
+/*Family Page stuff*/
+.familyPics{
+	width:auto;
+	height: auto;
+	border:solid 4px rgba(175,119,0, .8) ;
+	-webkit-background-clip: padding-box; /* for Safari */
+    background-clip: padding-box;
+}
+.bio{
+	color:white;  
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.bio-container{
+	background-color: #AF7700; 
+	opacity:.8;
+}
+#TheFamily {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+#hype{
+	background-color: black;
 }
