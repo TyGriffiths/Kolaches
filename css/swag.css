@@ -65,12 +65,12 @@ body{
 	height: 1000px;
 }
 #myNavBar{
-<<<<<<< HEAD
+
 	color:white;
-	background-color: none;
+
 	font-family: 'homemade apple';
 	font-size: 16pt;
-=======
+
 	padding-left: 7%;
 	background-color: #AF7700;
 	border: solid black 1px;
@@ -104,7 +104,7 @@ img{
 }
 .Popular input{
 	color: black;
->>>>>>> origin/master
+
 }
 #video{
 	margin-left: auto;
@@ -112,13 +112,13 @@ img{
 	width: 560px;
 	height: 316px;
 }
-<<<<<<< HEAD
+
 ul.nav a:hover {
 	background-color: none !important;
 	color: none; 
 }
-=======
->>>>>>> origin/master
+
+
 a{
 	text-decoration: none;
 	color:white;
@@ -137,8 +137,5 @@ a:hover{
 	font-size: 1.2em;
 	color: black;
 	font-weight: 1.2em;
-<<<<<<< HEAD
-=======
 
->>>>>>> origin/master
 }
